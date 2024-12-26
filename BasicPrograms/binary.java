@@ -8,12 +8,13 @@ class binary{
 		System.out.println("Enter a Decimal Value");
 		n=input.nextInt();
 		
-		while(n>0){
+		while(n != 0){
 			int rem=n%2;
 			s=s+rem;
 			n=n/2;
 		
 		}
 		System.out.println(s);
+		input.close();
 	}
 }

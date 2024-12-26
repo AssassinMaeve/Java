@@ -17,6 +17,6 @@ class fibonaccci{
 			f1=f2;
 			f2=f3;
 		}
-		
+		input.close();
 	}
 }

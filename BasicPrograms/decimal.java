@@ -17,5 +17,6 @@ class decimal{
 			n=n/10;
 		}
 		System.out.println("The Decimal Number is: "+d);
+		input.close();
 	}
 	}

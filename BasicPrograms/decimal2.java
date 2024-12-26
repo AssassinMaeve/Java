@@ -36,5 +36,6 @@ class decimal2{
         } else {
             System.out.println("Error: Please enter a valid binary number (only 0 and 1).");
         }
+        input.close();
     }
 }

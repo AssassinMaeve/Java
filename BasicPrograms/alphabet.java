@@ -12,5 +12,6 @@ class alphabet{
 		}else{
 			System.out.println("It is not an alphabet: \n"+a);
 		}
+		input.close();
 	}
 }
