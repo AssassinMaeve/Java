@@ -18,6 +18,6 @@ import java.util.Scanner;
 		}else if(n3>n1 && n3>n2){
 			System.out.println("The Third Number is Larger: \n"+n3);
 		}
-		
+		input.close();
 	}
 	}

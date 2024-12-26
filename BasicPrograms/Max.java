@@ -14,6 +14,6 @@ import java.util.Scanner;
 		}else{
 			System.out.println("The Second Number is Larger: \n"+n2);
 		}
-		
+		input.close();
 	}
 	}

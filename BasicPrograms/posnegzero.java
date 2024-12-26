@@ -15,5 +15,6 @@ class posnegzero{
 		}else if(n1==0){
 			System.out.println("The Number is Zero: \n"+n1);
 	}
+	input.close();
 }
 }

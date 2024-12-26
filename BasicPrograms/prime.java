@@ -20,5 +20,6 @@ class prime{
 		}else{
 			System.out.println("is not prime"+n);
 		}
+		input.close();
 }
 }

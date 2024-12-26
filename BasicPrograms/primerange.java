@@ -29,6 +29,6 @@ class primerange {
             System.out.println("Invalid Range");
         }
 
-
+        sc.close();
     }
 }

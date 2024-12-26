@@ -12,5 +12,6 @@ class Vowel{
 		}else{
 			System.out.println("It is a consonant: \n"+a);
 		}
+		input.close();
 	}
 }
