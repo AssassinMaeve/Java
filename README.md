@@ -7,5 +7,5 @@ Attention Students Accessing This Repository:
 
 Important Note:
 
-- This repository is still under development. If you cannot find what you are looking for, please check back at a later date.
+- This repository is still under development. Lab programs from 12 onwards are available the rest will be available on a later date.
 Thank you!
