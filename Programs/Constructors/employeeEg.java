@@ -4,17 +4,17 @@ class employee {
         String ename;
         int sal;
 
-        employee(){                                         //default constructor
+        employee(){      //default constructor
 
         }
 
-        employee(int eid, String ename, int sal){                               //parameterised constructor
+        employee(int eid, String ename, int sal){    //parameterised constructor
             this.eid=eid;
             this.ename=ename;
             this.sal=sal;
         }
 
-        employee(employee tmp){             //copy constructor
+        employee(employee tmp){    //copy constructor
             eid=tmp.eid;
             ename=tmp.ename;
             sal=tmp.sal;
