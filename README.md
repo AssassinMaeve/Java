@@ -1,4 +1,4 @@
-# Java Lab Programs Repository
+# Java Lab Programs - Msc Software Technology
 
 ## 📚 Repository Overview
 This repository contains Java lab programs and study materials for the MSc Software Technology course. It's designed to help students learn core Java concepts through practical implementations.
