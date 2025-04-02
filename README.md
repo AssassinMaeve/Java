@@ -46,6 +46,6 @@ While these resources are here to help, remember:
 - Use these as references, not submissions
 
 ## 📧 Contact
-For questions or suggestions, please open an issue on GitHub or contact [your-email@university.edu]
+For questions or suggestions, please open an issue on GitHub.
 
 Happy Coding! �☕
